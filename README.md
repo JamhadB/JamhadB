@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamhadB
 - 👀 I’m interested in Computational Physics & Data Science
-- 🌱 I’m currently learning Data Analytics and Statitics
+- 🌱 I’m currently studying physics at UT Austin
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me: jamhad.byers@gmail.com
 
